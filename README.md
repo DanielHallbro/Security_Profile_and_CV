@@ -28,6 +28,12 @@ With over a decade of experience as a Surveyor business owner and consultant (MÃ
 
 ---
 
+###  Certificates
+
+* **Cisco Networking Basics:** [Certificate](./Certificates/NetworkingBasicsUpdate20251111-31-ufi6iz.pdf)
+
+---
+
 ###  Featured Project: IOC Analyzer
 **[Explore the Repository](https://github.com/DanielHallbro/Applied_Script_CS25_FSH/tree/main/IOC_Analyzer)**
 
