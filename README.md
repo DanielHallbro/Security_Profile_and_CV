@@ -15,16 +15,18 @@ With over a decade of experience as a Surveyor business owner and consultant (MÃ
 ###  Connect with me
 * **LinkedIn:** [linkedin.com/in/danielhallbro](https://www.linkedin.com/in/danielhallbro/)
 * **CV:** [Download my CV (PDF)](./Daniel_Hallbro_CV.pdf)
+* **CV - English:** [Download my CV (PDF)](./Daniel_Hallbro_CV-English.pdf)
 
 ---
 
 ###  Technical Toolkit
 
 * **Security & Analysis:** Nmap, Wireshark, Burp Suite, Metasploit.
-* **Automation:** Python for Security, Bash Scripting.
-* **Operating Systems:** Linux (Debian/Ubuntu/Kali), Windows Server.
+* **Automation:** Python- and Bash Scripting.
+* **Operating Systems:** Linux (Debian/Ubuntu/Kali) and Windows.
 * **Networking:** Network Security fundamentals, TCP/IP, and traffic analysis.
-* **Platforms:** TryHackMe, picoCTF (Active practitioner).
+* **Platforms:** TryHackMe, picoCTF and soon Hack The Box.
+* **Infrastructure:** Docker, Git, and VirtualBox.
 
 ---
 
@@ -34,16 +36,20 @@ With over a decade of experience as a Surveyor business owner and consultant (MÃ
 
 ---
 
-###  Featured Project: IOC Analyzer
-**[Explore the Repository](https://github.com/DanielHallbro/Applied_Script_CS25_FSH/tree/main/IOC_Analyzer)**
+### Featured Project: IOC Analyzer v2.0.0
+**[Explore the Repository](https://github.com/DanielHallbro/IOC_Analyzer)**
 
-This is my primary project for automating security workflows. It is designed to streamline the analysis of Indicators of Compromise.
+A standalone framework designed to automate the triage and analysis of Indicators of Compromise (IOCs). This tool bridges the gap between raw threat data and actionable intelligence.
 
-* **The Tool:** Automated extraction and cross-referencing of malicious IPs, domains, and file hashes.
+* **The Tool:** Automated real-time monitoring, binary hashing, and multi-source intelligence integration (VirusTotal, AbuseIPDB, IPinfo).
+
 * **Skills Shown:**
-    * **Python Scripting:** Advanced automation and logic for security tasks.
+
+    * **Advanced Python Scripting:** Implemented a modular architecture for scalability and real-time folder watching.
     * **API Integration:** Interacting with external security intelligence sources.
-    * **Robust Documentation:** Implemented multi-level logging and dedicated reporting for analysis results.
+    * **Automation & Triage:** Streamlined security workflows by reducing manual investigation time.
+
+Check out **[IOC Analyzer v1.0.0](https://github.com/DanielHallbro/Applied_Script_CS25_FSH/tree/main/IOC_Analyzer)** to see how this project evolved from a classroom script to a modular framework.
 
 ---
 
