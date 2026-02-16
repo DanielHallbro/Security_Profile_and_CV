@@ -21,7 +21,7 @@ With over a decade of experience as a Surveyor business owner and consultant (M�
 
 ###  Technical Toolkit
 
-* **Security & Analysis:** Nmap, Wireshark, Burp Suite, Metasploit.
+* **Security & Analysis:** Nmap, Wireshark, Burp Suite, Metasploit, Nuclei, Gobuster.
 * **Automation:** Python- and Bash Scripting.
 * **Operating Systems:** Linux (Debian/Ubuntu/Kali) and Windows.
 * **Networking:** Network Security fundamentals, TCP/IP, and traffic analysis.
@@ -61,7 +61,7 @@ Check out **[IOC Analyzer v1.0.0](https://github.com/DanielHallbro/Applied_Scrip
 
 ###  Internship (LIA) Availability
 I am looking for a team where I can contribute my drive and experience while learning from industry experts.
-* **Period 1:** August 24 – October 9, 2026
+* **Period 1:** August 24 – October 23, 2026
 * **Period 2:** February 8 – May 28, 2027
 
 ---
