@@ -1,68 +1,57 @@
 # Daniel Hållbro – IT- & Cybersecurity Student
 
-Welcome to my professional profile repository. I am a dedicated Cybersecurity student at Frans Schartaus Handelsinstitut, transitioning from a successful background in consultancy and surveying technology into the world of IT- and Cybersecurity.
+Welcome to my professional profile repository. I am a dedicated Cybersecurity student at Frans Schartaus Handelsinstitut, transitioning from a successful background in consultancy and surveying technology into the world of IT and Cybersecurity.
 
 ---
 
 ###  About Me
 With over a decade of experience as a Surveyor business owner and consultant (Mättekniker), I bring a methodical, quality-focused, and highly accountable mindset to IT security. I thrive at the intersection of complex problem-solving and technical implementation.
 
-*  **Location:** Stockholm, Sweden
-*  **Current Focus:** Continous development of skills and seeking LIA (Internship) for August 2026
+* **Location:** Stockholm, Sweden
+* **Current Focus:** Security Researcher (LIA Internship & Part-time) at Detectify, starting August 2026
+* **Community:** Volunteer leadership member, OWASP Stockholm Chapter
 
 ---
 
 ###  Connect with me
+* **Portfolio:** [danielhallbro.github.io](https://danielhallbro.github.io)
 * **LinkedIn:** [linkedin.com/in/danielhallbro](https://www.linkedin.com/in/danielhallbro/)
 * **CV:** [Download my CV (PDF)](./Daniel_Hallbro_CV.pdf)
-* **CV - English:** [Download my CV (PDF)](./Daniel_Hallbro_CV-English.pdf)
+* **CV - English:** [Download my CV (PDF)](./Daniel_Hallbro_CV_English.pdf)
 
 ---
 
 ###  Technical Toolkit
-
-* **Security & Analysis:** Nmap, Wireshark, Burp Suite, Metasploit, Nuclei, Gobuster.
-* **Automation:** Python- and Bash Scripting.
-* **Operating Systems:** Linux (Debian/Ubuntu/Kali) and Windows.
-* **Networking:** Network Security fundamentals, TCP/IP, and traffic analysis.
-* **Platforms:** TryHackMe, picoCTF and soon Hack The Box.
-* **Infrastructure:** Docker, Git, and VirtualBox.
+* **Security & Offensive Tools:** Burp Suite, Nmap, Wireshark, Gobuster, Nuclei, OWASP Top 10
+* **Cloud & Infrastructure:** AWS, Terraform, Docker, Active Directory
+* **Automation & Scripting:** Python, Bash, Go
+* **Operating Systems:** Linux (Debian/Ubuntu/Kali), Windows
+* **Networking:** Network security fundamentals, TCP/IP, traffic analysis
+* **Platforms:** Hack The Box, TryHackMe, picoCTF
+* **Version Control:** Git, GitHub
 
 ---
 
 ###  Certificates
-
 * **Cisco Networking Basics:** [Certificate](./Certificates/NetworkingBasicsUpdate20251111-31-ufi6iz.pdf)
 
 ---
 
-### Featured Project: IOC Analyzer v2.0.0
-**[Explore the Repository](https://github.com/DanielHallbro/IOC_Analyzer)**
+### Featured Projects
 
-A standalone framework designed to automate the triage and analysis of Indicators of Compromise (IOCs). This tool bridges the gap between raw threat data and actionable intelligence.
-
-* **The Tool:** Automated real-time monitoring, binary hashing, and multi-source intelligence integration (VirusTotal, AbuseIPDB, IPinfo).
-
-* **Skills Shown:**
-
-    * **Advanced Python Scripting:** Implemented a modular architecture for scalability and real-time folder watching.
-    * **API Integration:** Interacting with external security intelligence sources.
-    * **Automation & Triage:** Streamlined security workflows by reducing manual investigation time.
+**IOC Analyzer v3.0.0** — [Explore the Repository](https://github.com/DanielHallbro/IOC_Analyzer)
+A threat intelligence framework for automated IOC triage — IPs, URLs, hashes, and JA4+ TLS fingerprints — across VirusTotal, AbuseIPDB, and IPinfo, with an AI-driven verdict layer (Gemini/Claude).
+* **Skills shown:** Modular Python architecture, real-time folder monitoring, multi-provider AI integration, API integration
 
 Check out **[IOC Analyzer v1.0.0](https://github.com/DanielHallbro/Applied_Script_CS25_FSH/tree/main/IOC_Analyzer)** to see how this project evolved from a classroom script to a modular framework.
+
+**AWS Cloud Security Project** — [Explore the Repository](https://github.com/DanielHallbro/AWS_Cloud_Security_Project)
+A full security analysis and redesign of a vulnerable AWS architecture, implemented as Infrastructure as Code via Terraform, following defense-in-depth and least-privilege principles.
+* **Skills shown:** Cloud security architecture, Terraform IaC, IAM design, cost/risk analysis
 
 ---
 
 ###  Career & Education
-* **Current:** IT & Cybersecurity Specialist @ **Frans Schartaus Handelsinstitut** (2025–2027)
-* **Previous:** Surveyor Consultant & Business Owner (Quality & Structure focus)
-
----
-
-###  Internship (LIA) Availability
-I am looking for a team where I can contribute my drive and experience while learning from industry experts.
-* **Period 1:** August 24 – October 23, 2026
-* **Period 2:** February 8 – May 28, 2027
-
----
-
+* **Current:** Security Researcher (LIA Internship & Part-time) @ **Detectify** (Aug 2026–)
+* **Studying:** IT & Cybersecurity Specialist @ **Frans Schartaus Handelsinstitut** (2025–2027)
+* **Previous:** Surveyor / Consultant & Business Owner (Quality & Structure focus)
