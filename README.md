@@ -46,19 +46,23 @@ With a background in civil engineering and running my own consulting firm, I bri
 
 ### Featured Projects
 
-**Network Intrusion Detection - MLOps Pipeline** - [Explore the Repository](https://github.com/DanielHallbro/MLOps_Pipeline)
-End-to-end MLOps pipeline for network intrusion detection on the UNSW-NB15 dataset. Full stack: Airflow, MLflow, FastAPI served via Kubernetes with HPA autoscaling, Prometheus and Grafana monitoring, isolated CI on GitHub Actions.
-- **Skills shown:** Docker, Kubernetes, MLOps infrastructure, security-focused observability, CI/CD
-
-**IOC Analyzer v3.0.0** - [Explore the Repository](https://github.com/DanielHallbro/IOC_Analyzer)
-Threat intelligence framework for automated IOC triage - IPs, URLs, hashes, and JA4+ TLS fingerprints - across VirusTotal, AbuseIPDB and IPinfo, with an AI-driven verdict layer (Gemini/Claude).
-- **Skills shown:** Modular Python architecture, real-time folder monitoring, multi-provider AI integration, API integration
-
 **CVE-2022-36804 - Bitbucket RCE** - [Explore the Repository](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)
+
 Full-chain lab reproduction of a null-byte argument injection vulnerability in Bitbucket Server. Pre-auth RCE via git archive endpoint, reproduced in a custom Docker lab with white-box process monitoring via pspy64.
 - **Skills shown:** Vulnerability research, exploit reproduction, Docker lab setup, security analysis
 
+**IOC Analyzer v3.0.0** - [Explore the Repository](https://github.com/DanielHallbro/IOC_Analyzer)
+
+Threat intelligence framework for automated IOC triage - IPs, URLs, hashes, and JA4+ TLS fingerprints - across VirusTotal, AbuseIPDB and IPinfo, with an AI-driven verdict layer (Gemini/Claude).
+- **Skills shown:** Modular Python architecture, real-time folder monitoring, multi-provider AI integration, API integration
+
+**Network Intrusion Detection - MLOps Pipeline** - [Explore the Repository](https://github.com/DanielHallbro/MLOps_Pipeline)
+
+End-to-end MLOps pipeline for network intrusion detection on the UNSW-NB15 dataset. Full stack: Airflow, MLflow, FastAPI served via Kubernetes with HPA autoscaling, Prometheus and Grafana monitoring, isolated CI on GitHub Actions.
+- **Skills shown:** Docker, Kubernetes, MLOps infrastructure, security-focused observability, CI/CD
+
 **AWS Cloud Security Project** - [Explore the Repository](https://github.com/DanielHallbro/AWS_Cloud_Security_Project)
+
 Security analysis and redesign of a vulnerable AWS architecture, implemented as Infrastructure as Code via Terraform following defense-in-depth and least-privilege principles.
 - **Skills shown:** Cloud security architecture, Terraform IaC, IAM design, cost/risk analysis
 
