@@ -46,7 +46,7 @@ With a background in civil engineering and running my own consulting firm, I bri
 
 ### Featured Projects
 
-**CVE-2022-36804 - Bitbucket RCE** - [Explore the Repository](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)
+**CVE-2022-36804 - Bitbucket RCE** - *Repository currently private (part of an ongoing recruitment process)*
 
 Full-chain lab reproduction of a null-byte argument injection vulnerability in Bitbucket Server. Pre-auth RCE via git archive endpoint, reproduced in a custom Docker lab with white-box process monitoring via pspy64.
 - **Skills shown:** Vulnerability research, exploit reproduction, Docker lab setup, security analysis
